@@ -129,7 +129,7 @@ const IndexPage = () => {
       <h1 style={headingStyles}>
         Atanu Chatterjee
         <br />
-        <span Postdoctoral Fellow </span>
+        <span Postdoctoral Fellow</span>
       </h1>
       <p style={paragraphStyles}>
         Edit <code style={codeStyles}>src/pages/index.js</code> to see this page
