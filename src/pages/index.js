@@ -48,7 +48,7 @@ const docLinkStyle = {
 }
 
 const descriptionStyle = {
-  color: "#232129",
+  color: "#121212",
   fontSize: 14,
   marginTop: 10,
   marginBottom: 0,
@@ -129,12 +129,12 @@ const IndexPage = () => {
       <h1 style={headingStyles}>
         Atanu Chatterjee
         <br />
-        <span style={headingAccentStyles}>Postdoctoral Fellow</span>
+//         <span style={headingAccentStyles}>Postdoctoral Fellow</span>
       </h1>
-      <p style={paragraphStyles}>
-        Edit <code style={codeStyles}>src/pages/index.js</code> to see this page
-        update in real-time. 😎
-      </p>
+//       <p style={paragraphStyles}>
+//         Edit <code style={codeStyles}>src/pages/index.js</code> to see this page
+//         update in real-time. 😎
+//       </p>
       <ul style={listStyles}>
         <li style={docLinkStyle}>
           <a
