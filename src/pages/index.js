@@ -35,7 +35,7 @@ const listItemStyles = {
   marginLeft: "auto",
   marginRight: "auto",
   maxWidth: "37.68rem",
-//   marginBottom: 30,
+  marginBottom: 30,
 }
 
 const linkStyle = {
@@ -87,21 +87,21 @@ const links = [
     url: "https://www.gatsbyjs.com/docs/tutorial/",
     description:
       "A great place to get started if you're new to web development. Designed to guide you through setting up your first Gatsby site.",
-    color: "#E95800",
+//     color: "#E95800",
   },
   {
     text: "Research",
     url: "https://www.gatsbyjs.com/docs/how-to/",
     description:
       "Practical step-by-step guides to help you achieve a specific goal. Most useful when you're trying to get something done.",
-    color: "#1099A8",
+//     color: "#1099A8",
   },
   {
     text: "Contact",
     url: "https://www.gatsbyjs.com/docs/reference/",
     description:
       "Nitty-gritty technical descriptions of how Gatsby works. Most useful when you need detailed information about Gatsby's APIs.",
-    color: "#BC027F",
+//     color: "#BC027F",
   },
 //   {
 //     text: "Conceptual Guides",
