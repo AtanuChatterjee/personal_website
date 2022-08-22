@@ -10,7 +10,7 @@ const headingStyles = {
   marginRight: auto,
 //   marginTop: -100,
 //   marginBottom: 64,
-  maxWidth: 37.68rem,
+  maxWidth: "37.68rem",
 }
 const headingAccentStyles = {
   color: "#121212",
