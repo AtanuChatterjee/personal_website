@@ -2,15 +2,15 @@ import * as React from "react"
 
 const pageStyles = {
   color: "#232129",
-  padding: 600,
+  padding: 100,
   fontFamily: "Montserrat",
 }
 const headingStyles = {
   marginLeft: "auto",
   marginRight: "auto",
-  marginTop: -100,
-  marginBottom: 64,
-//   maxWidth: "37.68rem",
+//   marginTop: -100,
+//   marginBottom: 64,
+  maxWidth: "37.68rem",
 }
 const headingAccentStyles = {
   color: "#121212",
