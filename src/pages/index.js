@@ -6,7 +6,7 @@ const pageStyles = {
   fontFamily: "Montserrat",
 }
 const headingStyles = {
-  marginTop: 0,
+  marginTop: 100,
   marginBottom: 64,
   maxWidth: 320,
 }
