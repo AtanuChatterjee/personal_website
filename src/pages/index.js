@@ -133,8 +133,8 @@ const IndexPage = () => {
       <h1 style={headingStyles}>
         Atanu Chatterjee
         <br/>
-          <hr>
       </h1>
+      <hr>
       <ul style={listStyles}>
         <li style={docLinkStyle}>
           <a
