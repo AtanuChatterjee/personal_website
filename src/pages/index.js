@@ -32,8 +32,8 @@ const listStyles = {
 const listItemStyles = {
   fontWeight: 300,
   fontSize: 24,
-  maxWidth: 560,
-  marginBottom: 30,
+  maxWidth: "37.68rem",
+//   marginBottom: 30,
 }
 
 const linkStyle = {
