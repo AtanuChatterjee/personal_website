@@ -86,7 +86,7 @@ const links = [
     text: "About",
 //     url: "https://www.gatsbyjs.com/docs/tutorial/",
     description:
-      "A great place to get started if you're new to web development. Designed to guide you through setting up your first Gatsby site.",
+      "I am a soft-condensed matter physicist and the focus of my research lies at the intersection of complexity science and non-equilibrium thermodynamics. In my research, I try to understand, address, and quantify these observable features of complex systems through the fundamental laws of physics and statistical mechanics.",
     color: "#D3D3D3",
   },
   {
@@ -100,7 +100,7 @@ const links = [
     text: "Contact",
 //     url: "https://www.gatsbyjs.com/docs/reference/",
     description:
-      "Nitty-gritty technical descriptions of how Gatsby works. Most useful when you need detailed information about Gatsby's APIs.",
+      "Department of Physics of Complex Systems, Weizmann Institute of Science, Israel",
     color: "#D3D3D3",
   },
 //   {
