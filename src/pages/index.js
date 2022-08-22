@@ -56,7 +56,7 @@ const descriptionStyle = {
   fontSize: 14,
   marginTop: 10,
   marginBottom: 0,
-  lineHeight: 125,
+  lineHeight: 1.25,
 }
 
 const docLink = {
@@ -66,7 +66,7 @@ const docLink = {
 }
 
 const badgeStyle = {
-  color: "#fff",
+  color: "#D3D3D3",
   backgroundColor: "#088413",
   border: "1px solid #088413",
   fontSize: 11,
