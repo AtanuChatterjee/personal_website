@@ -66,7 +66,7 @@ const docLink = {
 }
 
 const badgeStyle = {
-  color: "#D3D3D3",
+  color: "#fff",
   backgroundColor: "#088413",
   border: "1px solid #088413",
   fontSize: 11,
@@ -133,6 +133,7 @@ const IndexPage = () => {
       <h1 style={headingStyles}>
         Atanu Chatterjee
         <br/>
+          <hr>
       </h1>
       <ul style={listStyles}>
         <li style={docLinkStyle}>
