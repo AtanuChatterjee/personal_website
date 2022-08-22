@@ -32,6 +32,8 @@ const listStyles = {
 const listItemStyles = {
   fontWeight: 300,
   fontSize: 24,
+  marginLeft: "auto",
+  marginRight: "auto",
   maxWidth: "37.68rem",
 //   marginBottom: 30,
 }
