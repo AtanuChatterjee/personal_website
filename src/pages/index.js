@@ -56,7 +56,7 @@ const descriptionStyle = {
   fontSize: 14,
   marginTop: 10,
   marginBottom: 0,
-  lineHeight: 1.25,
+  lineHeight: 125,
 }
 
 const docLink = {
@@ -132,7 +132,7 @@ const IndexPage = () => {
     <main style={pageStyles}>
       <h1 style={headingStyles}>
         Atanu Chatterjee
-        <br />
+        <br/>
       </h1>
       <ul style={listStyles}>
         <li style={docLinkStyle}>
