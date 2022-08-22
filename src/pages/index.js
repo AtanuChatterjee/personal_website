@@ -69,7 +69,7 @@ const badgeStyle = {
   color: "#fff",
   backgroundColor: "#088413",
   border: "1px solid #088413",
-  fontSize: 12,
+  fontSize: 11,
   fontWeight: "bold",
   letterSpacing: 1,
   borderRadius: 4,
