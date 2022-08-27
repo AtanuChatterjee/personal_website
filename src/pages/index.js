@@ -185,12 +185,9 @@ const IndexPage = () => {
         <br/>
       </h1>
       <figure>
-        <img src='image.png' height="250" width="250">
-        <figcaption>Album name goes here
-            <br>Year goes here
-        </figcaption>
+        <img src='icon.png' height="250" width="250">
       </figure>
-       <ul style={listStyles}>
+      <ul style={listStyles}>
          <hr/>
         <li style={docLinkStyle}>
           <a
