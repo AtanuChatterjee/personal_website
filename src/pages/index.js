@@ -49,6 +49,7 @@ const listItemStyles = {
   marginRight: "auto",
   maxWidth: "37.68rem",
   marginBottom: 30,
+  display: "inline",
 }
 
 const linkStyle = {
