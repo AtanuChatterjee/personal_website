@@ -7,9 +7,9 @@ import * as React from "react"
 // position: absolute;
 // }
 const figure = {
-    display: inline-block,
+    display: "inline-block",
     border: 10,
-    margin: 20, /* adjust as needed */
+    margin: 20, 
 }
 
 const pageStyles = {
