@@ -195,7 +195,7 @@ const IndexPage = () => {
           >
             {home.text}
           </a>
-        </li>
+        </li><div>
         <li style={docLinkStyle}>
           <a
             style={linkStyle}
