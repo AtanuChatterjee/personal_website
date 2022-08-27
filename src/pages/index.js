@@ -66,11 +66,11 @@ const descriptionStyle = {
   lineHeight: 1.25,
 }
 
-const docLink = {
-  text: "Documentation",
-  url: "https://www.gatsbyjs.com/docs/",
-  color: "#8954A8",
-}
+// const docLink = {
+//   text: "Documentation",
+//   url: "https://www.gatsbyjs.com/docs/",
+//   color: "#8954A8",
+// }
 
 const badgeStyle = {
   color: "#fff",
@@ -142,14 +142,14 @@ const IndexPage = () => {
         <br/>
       </h1><hr/>
        <ul style={listStyles}>
-//         <li style={docLinkStyle}>
+        <li style={docLinkStyle}>
 //           <a
 //             style={linkStyle}
 //             href={`${docLink.url}?utm_source=starter&utm_medium=start-page&utm_campaign=minimal-starter`}
 //           >
 //             {docLink.text}
 //           </a>
-//         </li>
+        </li>
         {links.map(link => (
           <li key={link.url} style={{ ...listItemStyles, color: link.color }}>
             <span>
