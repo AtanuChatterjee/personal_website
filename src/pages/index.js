@@ -32,6 +32,14 @@ const codeStyles = {
   fontSize: "1.25rem",
   borderRadius: 4,
 }
+const div_top_hypers = {
+    backgroundColor: "#eeeeee",
+    display: "inline",
+}
+const ul_top_hypers = li{
+    display: "inline",
+}
+
 const listStyles = {
   marginLeft: "auto",
   marginRight: "auto",
@@ -49,7 +57,7 @@ const listItemStyles = {
   marginRight: "auto",
   maxWidth: "37.68rem",
   marginBottom: 30,
-  display: "inline",
+//   display: "inline",
 }
 
 const linkStyle = {
