@@ -185,7 +185,6 @@ const IndexPage = () => {
           <a
             style={linkStyle}
             href={`${home.url}`}
-            style={linkStyleHover}
           >
             {home.text}
           </a>
