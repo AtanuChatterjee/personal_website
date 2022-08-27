@@ -45,7 +45,7 @@ const listStyles = {
   marginRight: "auto",
   maxWidth: "37.68rem",
   padding: 0,
-//   listStyleType: "none",
+  listStyleType: "none",
 //   marginBottom: 96,
 //   paddingLeft: 0,
 //   display: "inline",
