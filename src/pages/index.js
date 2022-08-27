@@ -65,6 +65,7 @@ const linkStyle = {
 //   fontWeight: "bold",
   fontSize: 20,
   verticalAlign: "5%",
+  display: "inline",
 }
 
 const docLinkStyle = {
