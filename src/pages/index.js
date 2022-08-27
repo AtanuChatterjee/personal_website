@@ -87,7 +87,7 @@ const docLinkStyle = {
   ...linkStyle,
   listStyleType: "none",
   marginBottom: 24,
-  padding: 10,
+//   padding: 10,
 }
 
 const descriptionStyle = {
@@ -99,14 +99,20 @@ const descriptionStyle = {
 }
 
 const home = {
-  text: "Home |",
+  text: "Home   |   ",
   url: "https://www.netflix.com/",
   color: "#8954A8",
 }
 
 const publications = {
-  text: "Publications |",
+  text: "Publications   |   ",
   url: "https://www.youtube.com/",
+  color: "#8954A8",
+}
+
+const talks = {
+  text: "Talks  |   ",
+  url: "https://www.google.com/",
   color: "#8954A8",
 }
 
@@ -203,6 +209,14 @@ const IndexPage = () => {
             href={`${publications.url}`}
           >
             {publications.text}
+          </a>
+        </li>
+        <li style={docLinkStyle}>
+          <a
+            style={linkStyle}
+            href={`${talks.url}`}
+          >
+            {talks.text}
           </a>
         </li>
         <li style={docLinkStyle}>
