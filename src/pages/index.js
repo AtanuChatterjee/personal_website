@@ -56,8 +56,8 @@ const listStyles = {
 //   display: "inline",
 }
 const listItemStyles = {
-  fontWeight: 300,
-  fontSize: 42,
+  fontWeight: 30,
+  fontSize: 24,
   marginLeft: "auto",
   marginRight: "auto",
   maxWidth: "37.68rem",
