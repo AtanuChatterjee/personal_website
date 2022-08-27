@@ -193,15 +193,15 @@ const IndexPage = () => {
             style={linkStyle}
             href={`${home.url}`}
           >
-            {home.text}
+            {home.text | }
           </a>
-        </li><div>
+        </li>
         <li style={docLinkStyle}>
           <a
             style={linkStyle}
             href={`${publications.url}`}
           >
-            {publications.text}
+            {publications.text | }
           </a>
         </li>
         <li style={docLinkStyle}>
