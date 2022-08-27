@@ -66,7 +66,6 @@ const linkStyle = {
   fontSize: 20,
   verticalAlign: "5%",
   display: "inline",
-  marginBottom: 30,
 }
 
 const docLinkStyle = {
@@ -85,19 +84,19 @@ const descriptionStyle = {
 
 const home = {
   text: "Home",
-  url: "",
+  url: "https://www.netflix.com/",
   color: "#8954A8",
 }
 
 const publications = {
   text: "Publications",
-  url: "",
+  url: "https://www.youtube.com/",
   color: "#8954A8",
 }
 
 const cv = {
   text: "CV",
-  url: "",
+  url: "https://www.linkedin.com/",
   color: "#8954A8",
 }
 
