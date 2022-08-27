@@ -43,8 +43,6 @@ const codeStyles = {
 const listStyles = {
   marginLeft: "auto",
   marginRight: "auto",
-//   marginTop: -100,
-//   marginBottom: 64,
   maxWidth: "37.68rem",
 //   marginBottom: 96,
 //   paddingLeft: 0,
@@ -195,6 +193,7 @@ const IndexPage = () => {
             {cv.text}
           </a>
         </li>
+        <hr/>
         {links.map(link => (
           <li key={link.url} style={{ ...listItemStyles, color: link.color }}>
             <span>
