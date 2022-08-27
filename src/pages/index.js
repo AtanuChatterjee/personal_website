@@ -169,7 +169,7 @@ const IndexPage = () => {
         <br/>
       </h1>
       <hr/>
-      <div style={div_top_hypers}>
+//       <div style={div_top_hypers}>
 //     <ul id="ul_top_hypers">
        <ul style={listStyles}>
         <li style={docLinkStyle}>
@@ -196,7 +196,7 @@ const IndexPage = () => {
             {cv.text}
           </a>
         </li>
-       <div />
+//        <div />
         {links.map(link => (
           <li key={link.url} style={{ ...listItemStyles, color: link.color }}>
             <span>
