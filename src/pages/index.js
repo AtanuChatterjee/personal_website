@@ -158,7 +158,7 @@ const IndexPage = () => {
         <li style={docLinkStyle}>
           <a
             style={linkStyle}
-            href={`${docLink.url}?utm_source=starter&utm_medium=start-page&utm_campaign=minimal-starter`}
+            href={`${home.url}?utm_source=starter&utm_medium=start-page&utm_campaign=minimal-starter`}
           >
             {home.text}
           </a>
@@ -166,7 +166,7 @@ const IndexPage = () => {
         <li style={docLinkStyle}>
           <a
             style={linkStyle}
-            href={`${docLink.url}?utm_source=starter&utm_medium=start-page&utm_campaign=minimal-starter`}
+            href={`${publications.url}?utm_source=starter&utm_medium=start-page&utm_campaign=minimal-starter`}
           >
             {publications.text}
           </a>
@@ -174,7 +174,7 @@ const IndexPage = () => {
         <li style={docLinkStyle}>
           <a
             style={linkStyle}
-            href={`${docLink.url}?utm_source=starter&utm_medium=start-page&utm_campaign=minimal-starter`}
+            href={`${cv.url}?utm_source=starter&utm_medium=start-page&utm_campaign=minimal-starter`}
           >
             {cv.text}
           </a>
