@@ -142,7 +142,7 @@ const IndexPage = () => {
         <br/>
       </h1><hr/>
      </main>
-  }
+  },
 }
        
 //        <ul style={listStyles}>
