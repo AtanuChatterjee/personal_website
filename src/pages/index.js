@@ -69,7 +69,7 @@ const linkStyle = {
   color: "#121212",
   fontWeight: 300,
 //   fontWeight: "bold",
-  fontSize: 26,
+  fontSize: 20,
   verticalAlign: "5%",
   display: "inline",
   textDecoration: "none"
