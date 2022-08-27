@@ -167,8 +167,9 @@ const IndexPage = () => {
         Atanu Chatterjee
         <br/>
       </h1>
-      <hr/>
+      
        <ul style={listStyles}>
+         <hr/>
         <li style={docLinkStyle}>
           <a
             style={linkStyle}
@@ -193,7 +194,7 @@ const IndexPage = () => {
             {cv.text}
           </a>
         </li>
-        <hr/>
+        
         {links.map(link => (
           <li key={link.url} style={{ ...listItemStyles, color: link.color }}>
             <span>
