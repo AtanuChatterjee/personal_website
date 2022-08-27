@@ -174,7 +174,7 @@ const IndexPage = () => {
         <li style={docLinkStyle}>
           <a
             style={linkStyle}
-            href={`${home.url}?utm_source=starter&utm_medium=start-page&utm_campaign=minimal-starter`}
+            href={`${home.url}`}
           >
             {home.text}
           </a>
@@ -182,7 +182,7 @@ const IndexPage = () => {
         <li style={docLinkStyle}>
           <a
             style={linkStyle}
-            href={`${publications.url}?utm_source=starter&utm_medium=start-page&utm_campaign=minimal-starter`}
+            href={`${publications.url}`}
           >
             {publications.text}
           </a>
@@ -190,7 +190,7 @@ const IndexPage = () => {
         <li style={docLinkStyle}>
           <a
             style={linkStyle}
-            href={`${cv.url}?utm_source=starter&utm_medium=start-page&utm_campaign=minimal-starter`}
+            href={`${cv.url}`}
           >
             {cv.text}
           </a>
@@ -200,7 +200,7 @@ const IndexPage = () => {
             <span>
               <a
                 style={linkStyle}
-                href={`${link.url}?utm_source=starter&utm_medium=start-page&utm_campaign=minimal-starter`}
+                href={`${link.url}`}
               >
                 {link.text}
               </a>
