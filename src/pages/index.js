@@ -1,5 +1,12 @@
 import * as React from "react"
 
+// const line = {
+// width: 112px;
+// height: 47px;
+// border-bottom: 1px solid black;
+// position: absolute;
+// }
+
 const pageStyles = {
   color: "#232129",
   padding: "2.355rem 1.775rem",
@@ -133,7 +140,7 @@ const IndexPage = () => {
       <h1 style={headingStyles}>
         Atanu Chatterjee
         <br/>
-      </h1>
+      </h1><hr />
       <ul style={listStyles}>
         <li style={docLinkStyle}>
           <a
