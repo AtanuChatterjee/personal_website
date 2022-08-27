@@ -141,7 +141,11 @@ const IndexPage = () => {
         Atanu Chatterjee
         <br/>
       </h1><hr/>
-       <ul style={listStyles}>
+     </main>
+  }
+}
+       
+//        <ul style={listStyles}>
 //         <li style={docLinkStyle}>
 //           <a
 //             style={linkStyle}
@@ -168,10 +172,10 @@ const IndexPage = () => {
 //             </span>
 //           </li>
 //         ))}
-      </ul>
-    </main>
-  )
-}
+//       </ul>
+//     </main>
+//   )
+// }
 
 export default IndexPage
 
