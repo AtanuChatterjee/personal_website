@@ -33,8 +33,13 @@ const codeStyles = {
   borderRadius: 4,
 }
 const listStyles = {
-  marginBottom: 96,
-  paddingLeft: 0,
+  marginLeft: "auto",
+  marginRight: "auto",
+//   marginTop: -100,
+//   marginBottom: 64,
+  maxWidth: "37.68rem",
+//   marginBottom: 96,
+//   paddingLeft: 0,
 }
 const listItemStyles = {
   fontWeight: 300,
