@@ -40,7 +40,7 @@ const listStyles = {
   maxWidth: "37.68rem",
 //   marginBottom: 96,
 //   paddingLeft: 0,
-//   display: "inline-block",
+  display: "inline",
 }
 const listItemStyles = {
   fontWeight: 300,
