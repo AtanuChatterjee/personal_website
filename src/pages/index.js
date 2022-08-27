@@ -67,6 +67,7 @@ const listItemStyles = {
 
 const linkStyle = {
   color: "#121212",
+  fontWeight: 300,
 //   fontWeight: "bold",
   fontSize: 20,
   verticalAlign: "5%",
