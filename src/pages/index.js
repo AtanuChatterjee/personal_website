@@ -32,13 +32,13 @@ const codeStyles = {
   fontSize: "1.25rem",
   borderRadius: 4,
 }
-const div_top_hypers = {
-    backgroundColor: "#eeeeee",
-    display: "inline",
-}
-const ul_top_hypers = {
-    display: "inline",
-}
+// const div_top_hypers = {
+//     backgroundColor: "#eeeeee",
+//     display: "inline",
+// }
+// const ul_top_hypers = {
+//     display: "inline",
+// }
 
 const listStyles = {
   marginLeft: "auto",
@@ -169,8 +169,6 @@ const IndexPage = () => {
         <br/>
       </h1>
       <hr/>
-//       <div style={div_top_hypers}>
-//     <ul id="ul_top_hypers">
        <ul style={listStyles}>
         <li style={docLinkStyle}>
           <a
@@ -196,7 +194,6 @@ const IndexPage = () => {
             {cv.text}
           </a>
         </li>
-//        <div />
         {links.map(link => (
           <li key={link.url} style={{ ...listItemStyles, color: link.color }}>
             <span>
