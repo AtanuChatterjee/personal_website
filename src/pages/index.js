@@ -98,6 +98,7 @@ const descriptionStyle = {
   marginTop: 5,
   marginBottom: 0,
   lineHeight: 1.25,
+  fontWeight: 300,
 }
 
 const home = {
