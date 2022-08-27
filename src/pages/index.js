@@ -184,9 +184,9 @@ const IndexPage = () => {
         Atanu Chatterjee
         <br/>
       </h1>
-      <figure>
-        <img src='icon.png' height="250" width="250">
-      </figure>
+
+      <figure><img src='my_picture.jpeg' height="250" width="250"></figure>
+ 
       <ul style={listStyles}>
          <hr/>
         <li style={docLinkStyle}>
