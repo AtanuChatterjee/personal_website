@@ -189,7 +189,7 @@ const IndexPage = () => {
           >
             {home.text}
           </a>
-        </li><hr/>
+        </li>
         <li style={docLinkStyle}>
           <a
             style={linkStyle}
@@ -215,7 +215,7 @@ const IndexPage = () => {
                 href={`${link.url}`}
               >
                 {link.text}
-              </a>
+              </a><hr/>
               {link.badge && (
                 <span style={badgeStyle} aria-label="New Badge">
                   NEW!
