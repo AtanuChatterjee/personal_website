@@ -151,6 +151,14 @@ const IndexPage = () => {
             {docLink.text}
           </a>
         </li>
+        <li style={docLinkStyle}>
+          <a
+            style={linkStyle}
+            href={`${docLink.url}?utm_source=starter&utm_medium=start-page&utm_campaign=minimal-starter`}
+          >
+            {docLink.text}
+          </a>
+        </li>
         {links.map(link => (
           <li key={link.url} style={{ ...listItemStyles, color: link.color }}>
             <span>
