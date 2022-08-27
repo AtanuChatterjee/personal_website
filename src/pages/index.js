@@ -57,7 +57,7 @@ const listStyles = {
 }
 const listItemStyles = {
   fontWeight: 300,
-  fontSize: 2,
+  fontSize: 24,
   marginLeft: "auto",
   marginRight: "auto",
   maxWidth: "37.68rem",
@@ -69,7 +69,7 @@ const linkStyle = {
   color: "#121212",
   fontWeight: 300,
 //   fontWeight: "bold",
-  fontSize: 20,
+  fontSize: 26,
   verticalAlign: "5%",
   display: "inline",
   textDecoration: "none"
