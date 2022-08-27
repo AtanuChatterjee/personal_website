@@ -99,13 +99,13 @@ const descriptionStyle = {
 }
 
 const home = {
-  text: "Home",
+  text: "Home |",
   url: "https://www.netflix.com/",
   color: "#8954A8",
 }
 
 const publications = {
-  text: "Publications",
+  text: "Publications |",
   url: "https://www.youtube.com/",
   color: "#8954A8",
 }
