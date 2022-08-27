@@ -36,7 +36,7 @@ const div_top_hypers = {
     backgroundColor: "#eeeeee",
     display: "inline",
 }
-const ul_top_hypers = li{
+const ul_top_hypers = {
     display: "inline",
 }
 
