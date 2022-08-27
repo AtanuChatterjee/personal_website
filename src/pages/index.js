@@ -20,7 +20,7 @@ const pageStyles = {
 const headingStyles = {
   marginLeft: "auto",
   marginRight: "auto",
-  fontWeight: 200,
+  fontWeight: 100,
 //   marginTop: -100,
 //   marginBottom: 64,
   maxWidth: "37.68rem",
@@ -68,7 +68,7 @@ const listItemStyles = {
 
 const linkStyle = {
   color: "#121212",
-  fontWeight: 300,
+  fontWeight: 200,
 //   fontWeight: "bold",
   fontSize: 20,
   verticalAlign: "5%",
