@@ -94,8 +94,8 @@ const docLinkStyle = {
 
 const descriptionStyle = {
   color: "#121212",
-  fontSize: 14,
-  marginTop: 10,
+  fontSize: 16,
+  marginTop: 5,
   marginBottom: 0,
   lineHeight: 1.25,
 }
