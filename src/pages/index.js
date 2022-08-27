@@ -20,6 +20,7 @@ const pageStyles = {
 const headingStyles = {
   marginLeft: "auto",
   marginRight: "auto",
+  fontWeight: 200,
 //   marginTop: -100,
 //   marginBottom: 64,
   maxWidth: "37.68rem",
