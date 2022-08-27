@@ -169,7 +169,7 @@ const IndexPage = () => {
         <br/>
       </h1>
       <hr/>
-      <div id="div_top_hypers">
+      <div style={div_top_hypers}>
 //     <ul id="ul_top_hypers">
        <ul style={listStyles}>
         <li style={docLinkStyle}>
