@@ -49,7 +49,7 @@ const listStyles = {
   marginLeft: "auto",
   marginRight: "auto",
   maxWidth: "37.68rem",
-  padding: 10,
+  padding: 0,
   listStyleType: "none",
 //   marginBottom: 96,
 //   paddingLeft: 0,
