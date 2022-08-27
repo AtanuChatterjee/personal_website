@@ -68,6 +68,15 @@ const linkStyle = {
   textDecoration: "none"
 }
 
+const linkStyleHover = {
+  color: "#121212",
+//   fontWeight: "bold",
+  fontSize: 20,
+  verticalAlign: "5%",
+  display: "inline",
+  textDecoration: "underline"
+}
+
 const docLinkStyle = {
   ...linkStyle,
   listStyleType: "none",
@@ -176,6 +185,7 @@ const IndexPage = () => {
           <a
             style={linkStyle}
             href={`${home.url}`}
+            style={linkStyleHover}
           >
             {home.text}
           </a>
