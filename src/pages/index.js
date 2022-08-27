@@ -61,7 +61,7 @@ const listItemStyles = {
   marginLeft: "auto",
   marginRight: "auto",
   maxWidth: "37.68rem",
-  marginBottom: 3,
+  marginBottom: 30,
 //   display: "inline",
 }
 
@@ -86,7 +86,7 @@ const linkStyleHover = {
 const docLinkStyle = {
   ...linkStyle,
   listStyleType: "none",
-  marginBottom: 24,
+  marginBottom: 2,
 //   padding: 10,
 }
 
