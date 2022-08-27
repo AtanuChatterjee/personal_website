@@ -185,7 +185,6 @@ const IndexPage = () => {
         <br/>
       </h1>
 
-      <figure><img src='my_picture.jpeg' height="250" width="250"></figure>
  
       <ul style={listStyles}>
          <hr/>
