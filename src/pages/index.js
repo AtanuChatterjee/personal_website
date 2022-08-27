@@ -66,8 +66,20 @@ const descriptionStyle = {
   lineHeight: 1.25,
 }
 
-const docLink = {
+const home = {
   text: "Home",
+  url: "",
+  color: "#8954A8",
+}
+
+const publications = {
+  text: "Publications",
+  url: "",
+  color: "#8954A8",
+}
+
+const cv = {
+  text: "CV",
   url: "",
   color: "#8954A8",
 }
@@ -148,7 +160,7 @@ const IndexPage = () => {
             style={linkStyle}
             href={`${docLink.url}?utm_source=starter&utm_medium=start-page&utm_campaign=minimal-starter`}
           >
-            {docLink.text}
+            {home.text}
           </a>
         </li>
         <li style={docLinkStyle}>
@@ -156,7 +168,15 @@ const IndexPage = () => {
             style={linkStyle}
             href={`${docLink.url}?utm_source=starter&utm_medium=start-page&utm_campaign=minimal-starter`}
           >
-            {docLink.text}
+            {publications.text}
+          </a>
+        </li>
+        <li style={docLinkStyle}>
+          <a
+            style={linkStyle}
+            href={`${docLink.url}?utm_source=starter&utm_medium=start-page&utm_campaign=minimal-starter`}
+          >
+            {cv.text}
           </a>
         </li>
         {links.map(link => (
