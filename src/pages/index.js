@@ -87,6 +87,7 @@ const docLinkStyle = {
   ...linkStyle,
   listStyleType: "none",
   marginBottom: 24,
+  padding: 10,
 }
 
 const descriptionStyle = {
@@ -193,7 +194,7 @@ const IndexPage = () => {
             style={linkStyle}
             href={`${home.url}`}
           >
-            {home.text | }
+            {home.text}
           </a>
         </li>
         <li style={docLinkStyle}>
@@ -201,7 +202,7 @@ const IndexPage = () => {
             style={linkStyle}
             href={`${publications.url}`}
           >
-            {publications.text | }
+            {publications.text}
           </a>
         </li>
         <li style={docLinkStyle}>
