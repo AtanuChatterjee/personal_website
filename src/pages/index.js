@@ -57,7 +57,7 @@ const listStyles = {
 }
 const listItemStyles = {
   fontWeight: 300,
-  fontSize: 24,
+  fontSize: 42,
   marginLeft: "auto",
   marginRight: "auto",
   maxWidth: "37.68rem",
