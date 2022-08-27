@@ -30,13 +30,13 @@ const headingAccentStyles = {
 const paragraphStyles = {
   marginBottom: 48,
 }
-const codeStyles = {
-  color: "#8A6534",
-  padding: 4,
-  backgroundColor: "#FFF4DB",
-  fontSize: "1.25rem",
-  borderRadius: 4,
-}
+// const codeStyles = {
+//   color: "#8A6534",
+//   padding: 4,
+//   backgroundColor: "#FFF4DB",
+//   fontSize: "1.25rem",
+//   borderRadius: 4,
+// }
 // const div_top_hypers = {
 //     backgroundColor: "#eeeeee",
 //     display: "inline",
@@ -69,7 +69,7 @@ const linkStyle = {
   color: "#121212",
   fontWeight: 300,
 //   fontWeight: "bold",
-  fontSize: 20,
+  fontSize: 12,
   verticalAlign: "5%",
   display: "inline",
   textDecoration: "none"
