@@ -6,6 +6,11 @@ import * as React from "react"
 // border-bottom: 1px solid black;
 // position: absolute;
 // }
+const figure = {
+    display: inline-block,
+    border: 10,
+    margin: 20, /* adjust as needed */
+}
 
 const pageStyles = {
   color: "#232129",
@@ -179,7 +184,12 @@ const IndexPage = () => {
         Atanu Chatterjee
         <br/>
       </h1>
-      
+      <figure>
+        <img src='image.png' height="250" width="250">
+        <figcaption>Album name goes here
+            <br>Year goes here
+        </figcaption>
+      </figure>
        <ul style={listStyles}>
          <hr/>
         <li style={docLinkStyle}>
