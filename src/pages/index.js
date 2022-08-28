@@ -29,7 +29,7 @@ const headingAccentStyles = {
   color: "#121212",
 }
 const paragraphStyles = {
-  marginBottom: 24,
+  marginBottom: 48,
 }
 // const codeStyles = {
 //   color: "#8A6534",
