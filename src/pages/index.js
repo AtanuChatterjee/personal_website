@@ -15,7 +15,7 @@ const figure = {
 const pageStyles = {
   color: "#232129",
   padding: "2.355rem 1.775rem",
-  fontFamily: "Montserrat, sans-serif",
+  fontFamily: "sans-serif",
 }
 const headingStyles = {
   marginLeft: "auto",
