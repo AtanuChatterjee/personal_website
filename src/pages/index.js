@@ -192,7 +192,7 @@ const IndexPage = () => {
     <main style={pageStyles}>
       <h1 style={headingStyles}>
         Atanu Chatterjee
-        <br/>
+        <hr/>
       </h1>
 
  
