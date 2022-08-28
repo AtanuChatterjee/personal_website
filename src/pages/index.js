@@ -62,7 +62,7 @@ const listItemStyles = {
   marginLeft: "auto",
   marginRight: "auto",
   maxWidth: "37.68rem",
-  marginBottom: 30,
+//   marginBottom: 30,
 //   display: "inline",
 }
 
