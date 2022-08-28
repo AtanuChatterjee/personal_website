@@ -197,7 +197,6 @@ const IndexPage = () => {
 
  
       <ul style={listStyles}>
-         <hr/>
         <li style={docLinkStyle}>
           <a
             style={linkStyle}
