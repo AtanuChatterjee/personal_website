@@ -193,7 +193,7 @@ const IndexPage = () => {
       <ul style={listStyles}>
         <li style={docLinkStyle}>
           <a
-            style={linkStyleHover}
+            style={linkStyle}
             href={`${home.url}`}
           >
             {home.text}
@@ -201,7 +201,7 @@ const IndexPage = () => {
         </li>
         <li style={docLinkStyle}>
           <a
-            style={linkStyleHover}
+            style={linkStyle}
             href={`${publications.url}`}
           >
             {publications.text}
@@ -209,7 +209,7 @@ const IndexPage = () => {
         </li>
         <li style={docLinkStyle}>
           <a
-            style={linkStyleHover}
+            style={linkStyle}
             href={`${talks.url}`}
           >
             {talks.text}
@@ -217,7 +217,7 @@ const IndexPage = () => {
         </li>
         <li style={docLinkStyle}>
           <a
-            style={linkStyleHover}
+            style={linkStyle}
             href={`${cv.url}`}
           >
             {cv.text}
