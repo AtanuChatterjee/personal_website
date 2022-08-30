@@ -231,11 +231,11 @@ const IndexPage = () => {
               >
                 {link.text}
               </a><hr/>
-              {link.badge && (
-                <span style={badgeStyle} aria-label="New Badge">
-                  NEW!
-                </span>
-              )}
+//               {link.badge && (
+//                 <span style={badgeStyle} aria-label="New Badge">
+//                   NEW!
+//                 </span>
+//               )}
               <p style={descriptionStyle}>{link.description}</p>
             </span>
           </li>
