@@ -146,14 +146,14 @@ const links = [
     text: "About",
 //     url: "https://www.gatsbyjs.com/docs/tutorial/",
     description:
-      "I am a soft-condensed matter physicist and the focus of my research lies at the intersection of complexity science and non-equilibrium thermodynamics. In my research, I try to understand, address, and quantify these observable features of complex systems through the fundamental laws of physics and statistical mechanics.",
+      "I am Curwen-Lowey postdoctoral fellow in the Department of Physics of Complex Systems at the Weizmann Institute of Science.",
     color: "#D3D3D3",
   },
   {
     text: "Research",
 //     url: "https://www.gatsbyjs.com/docs/how-to/",
     description:
-      "Practical step-by-step guides to help you achieve a specific goal. Most useful when you're trying to get something done.",
+      "As a soft-condensed matter physicist, the focus of my research lies at the intersection of complexity science and non-equilibrium thermodynamics. Using thermodynamics and statistical mechanics, I try to understand, address, and quantify certain intriguing features in complex systems such as, pattern formation, self-organizationm, and collective problem solving in agents.",
     color: "#D3D3D3",
   },
   {
