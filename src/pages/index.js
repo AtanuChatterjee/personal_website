@@ -229,7 +229,7 @@ const IndexPage = () => {
             {cv.text}
           </a>
         </li>
-        <br>
+        
         {links.map(link => (
           <li key={link.url} style={{ ...listItemStyles, color: link.color }}>
             <span>
