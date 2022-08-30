@@ -144,24 +144,18 @@ const badgeStyle = {
 const links = [
   {
     text: "About",
-//     url: "https://www.gatsbyjs.com/docs/tutorial/",
     description:
       "I am the 2022-23 Curwen-Lowy postdoctoral fellow in the Department of Physics of Complex Systems at the Weizmann Institute of Science. At the Weizmann Institute of Science, I work with Prof. Ofer Feinerman to quantify collective cognition in a group of Longhorn crazy ants as they cooperate ",
-    color: "#D3D3D3",
   },
   {
     text: "Research",
-//     url: "https://www.gatsbyjs.com/docs/how-to/",
     description:
       "As a soft-condensed matter physicist, the focus of my research lies at the intersection of complexity science and non-equilibrium thermodynamics. Using thermodynamics and statistical mechanics, I try to understand, address, and quantify certain intriguing features in complex systems such as, pattern formation, self-organizationm, and collective problem solving in agents.",
-    color: "#D3D3D3",
   },
   {
     text: "Contact",
-//     url: "https://www.gatsbyjs.com/docs/reference/",
     description:
       "Department of Physics of Complex Systems, Weizmann Institute of Science, Israel",
-    color: "#D3D3D3",
   },
 //   {
 //     text: "Conceptual Guides",
