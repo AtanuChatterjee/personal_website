@@ -125,21 +125,21 @@ const cv = {
   color: "#8954A8",
 }
 
-const badgeStyle = {
-  color: "#fff",
-  backgroundColor: "#088413",
-  border: "1px solid #088413",
-  fontSize: 11,
-  fontWeight: "bold",
-  letterSpacing: 1,
-  borderRadius: 4,
-  padding: "4px 6px",
-  display: "inline-block",
-  position: "relative",
-  top: -2,
-  marginLeft: 10,
-  lineHeight: 1,
-}
+// const badgeStyle = {
+//   color: "#fff",
+//   backgroundColor: "#088413",
+//   border: "1px solid #088413",
+//   fontSize: 11,
+//   fontWeight: "bold",
+//   letterSpacing: 1,
+//   borderRadius: 4,
+//   padding: "4px 6px",
+//   display: "inline-block",
+//   position: "relative",
+//   top: -2,
+//   marginLeft: 10,
+//   lineHeight: 1,
+// }
 
 const links = [
   {
@@ -193,7 +193,7 @@ const IndexPage = () => {
       <ul style={listStyles}>
         <li style={docLinkStyle}>
           <a
-            style={linkStyle}
+            style={linkStyleHover}
             href={`${home.url}`}
           >
             {home.text}
@@ -201,7 +201,7 @@ const IndexPage = () => {
         </li>
         <li style={docLinkStyle}>
           <a
-            style={linkStyle}
+            style={linkStyleHover}
             href={`${publications.url}`}
           >
             {publications.text}
@@ -209,7 +209,7 @@ const IndexPage = () => {
         </li>
         <li style={docLinkStyle}>
           <a
-            style={linkStyle}
+            style={linkStyleHover}
             href={`${talks.url}`}
           >
             {talks.text}
@@ -217,7 +217,7 @@ const IndexPage = () => {
         </li>
         <li style={docLinkStyle}>
           <a
-            style={linkStyle}
+            style={linkStyleHover}
             href={`${cv.url}`}
           >
             {cv.text}
