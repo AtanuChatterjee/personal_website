@@ -225,8 +225,7 @@ const IndexPage = () => {
         </li>
         
         <figure>
-            <img src="pic_trulli.jpg" alt="Trulli" style="width:100%">
-            <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
+            <img src="img_pulpit.jpg" alt="The Pulpit Rock" width="304" height="228">
         </figure>
         
         {links.map(link => (
