@@ -234,7 +234,7 @@ const IndexPage = () => {
               <p style={descriptionStyle}>{link.description}</p>
             </span>
           </li>
-        ))
+        ))}
       </ul>
     </main>
   )
