@@ -223,6 +223,18 @@ const IndexPage = () => {
             {cv.text}
           </a>
         </li>
+        {links.map(link => (
+          <li style={{ ...listItemStyles}}>
+            <span>
+              <a
+              >
+                {link.text}
+              </a><hr/>
+                {link.badge && (<span style={badgeStyle} aria-label="New Badge">NEW!</span>)}
+              <p style={descriptionStyle}>{link.description}</p>
+            </span>
+          </li>
+        ))
       </ul>
     </main>
   )
