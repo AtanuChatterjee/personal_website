@@ -84,12 +84,12 @@ img {
   margin-top: 0.25rem;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 640px) {
   header nav ul {
     flex-direction: column;
   }
 
   header nav ul li {
-    margin: 0.5rem 0;
+    margin: 0 0;
   }
 }
