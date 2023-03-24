@@ -57,7 +57,8 @@ header nav ul li a:hover {
 
 img {
   display: block;
-  width: 300px;
+  width: 100%;
+  max-width: 300px;
   height: auto;
   margin: 1rem 0;
 }
@@ -92,9 +93,5 @@ img {
 
   header nav ul li {
     margin: 0.5rem 0;
-  }
-
-  img {
-    width: 100%;
   }
 }
