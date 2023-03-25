@@ -157,6 +157,11 @@ a {
   .nav-menu li {
     white-space: nowrap;
   }
+
+  .nav-wrapper {
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+  }
   /* Add any other styles you want to adjust specifically for smaller screens here */
 }
 
