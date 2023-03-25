@@ -150,6 +150,13 @@ a {
     padding: 2rem 0.5rem; /* Reduce left and right padding for smaller screens */
   }
 
+.nav-menu {
+    flex-wrap: nowrap;
+  }
+
+  .nav-menu li {
+    white-space: nowrap;
+  }
   /* Add any other styles you want to adjust specifically for smaller screens here */
 }
 
