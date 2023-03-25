@@ -147,9 +147,39 @@ a {
 
 @media screen and (max-width: 480px) {
   main {
-    padding: 1rem 0rem; /* Reduce left and right padding for smaller screens */
+    padding: 2rem 0.5rem; /* Reduce left and right padding for smaller screens */
   }
 
   /* Add any other styles you want to adjust specifically for smaller screens here */
+}
+
+@media screen and (max-width: 480px) {
+  .nav-menu {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .nav-menu li {
+    margin: 0.5rem 0;
+  }
+
+  .dropdown {
+    position: initial;
+  }
+
+  .dropdown-content {
+    position: initial;
+    background-color: transparent;
+    border: none;
+    box-shadow: none;
+  }
+
+  .dropdown-content li {
+    margin: 0;
+  }
+
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
 }
 
