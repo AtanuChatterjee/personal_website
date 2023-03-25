@@ -30,7 +30,7 @@ header h1::after {
   left: 0;
   bottom: -0.5rem;
 /*  display: block;*/
-  width: 100%;
+  width: calc(100%-1rem);
   height: 1px;
   background-color: currentColor;
 /*  margin-top: 0.5rem;*/
