@@ -147,7 +147,7 @@ a {
 
 @media screen and (max-width: 480px) {
   main {
-    padding: 2rem 0.5rem; /* Reduce left and right padding for smaller screens */
+    padding: 1rem 0rem; /* Reduce left and right padding for smaller screens */
   }
 
   /* Add any other styles you want to adjust specifically for smaller screens here */
