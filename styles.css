@@ -7,7 +7,7 @@
 html {
 /*  font-family: Georgia, "Times New Roman", serif;*/
   font-family: "Montserrat", sans-serif;
-  font-size: 16px;
+  font-size: 14px;
   line-height: 1.6;
 }
 
@@ -103,8 +103,8 @@ a {
 }
 
 .nav-link {
-  font-size: 18px; /* Increase the font size */
-  margin: 0 10px; /* Adjust the spacing between the hyperlinked tabs */
+  font-size: 14px; /* Increase the font size */
+  margin: 0 8px; /* Adjust the spacing between the hyperlinked tabs */
   text-decoration: none; /* Remove the underline */
 }
 
