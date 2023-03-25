@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 
-body {
+html {
   font-family: Georgia, "Times New Roman", serif;
   font-size: 14px;
   line-height: 1.6;
@@ -83,9 +83,4 @@ img {
   height: 1px;
   background-color: currentColor;
   margin-top: 0.25rem;
-}
-
-html, body {
-  margin: 0;
-  padding: 0;
 }
