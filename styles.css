@@ -105,3 +105,11 @@ a {
 .nav-link:hover {
   text-decoration: none; /* Keep the underline removed on hover */
 }
+
+@media screen and (max-width: 480px) {
+  main {
+    padding: 2rem 0.5rem; /* Reduce left and right padding for smaller screens */
+  }
+
+  /* Add any other styles you want to adjust specifically for smaller screens here */
+}
