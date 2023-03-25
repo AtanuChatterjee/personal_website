@@ -158,6 +158,25 @@ a {
     white-space: nowrap;
   }
 
+  .dropdown {
+    position: initial;
+  }
+
+  .dropdown-content {
+    position: initial;
+    background-color: transparent;
+    border: none;
+    box-shadow: none;
+  }
+
+  .dropdown-content li {
+    margin: 0;
+  }
+
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+
   .nav-wrapper {
     padding-left: 0.5rem;
     padding-right: 0.5rem;
