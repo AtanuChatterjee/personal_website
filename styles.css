@@ -84,3 +84,8 @@ img {
   background-color: currentColor;
   margin-top: 0.25rem;
 }
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
